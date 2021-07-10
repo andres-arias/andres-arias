@@ -45,5 +45,5 @@ As a bonus, I'm a huge coffee nerd, and have a couple of barista certifications.
   <li><b>OS:</b> Windows 10 and Ubuntu 20.04</li>
   <li><b>Browser: </b> Firefox </li>
   <li><b>Terminal: </b> ZSH with Oh My Zsh </li>
-  <li><b>Code Editor:</b> Neovim. You can find my vimrc <a href="https://github.com/andres-arias/dotfiles/blob/master/.vimrc">here</a>.</li>
+  <li><b>Text Editor:</b> Neovim. You can find my vimrc <a href="https://github.com/andres-arias/dotfiles/blob/master/.vimrc">here</a>.</li>
 </ul>	
