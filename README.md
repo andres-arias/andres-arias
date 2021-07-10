@@ -20,12 +20,12 @@ As a bonus, I'm a huge coffee nerd, and have a couple of barista certifications.
 - 🚀 &nbsp; I’m currently working with Embedded Systems.
 - 👨🏻‍💻 &nbsp; I keep a blog where I write about stuff I learn: https://andres.world/
 - 📫 &nbsp; You can reach me at my personal email: andres.arias12@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://andres.world/cv/).
+- 📝 &nbsp; My [Resume](https://andres.world/cv/).
 
 ### About Me
 
 - 💻 &nbsp; I love learning new technologies, programming languages and platforms.
-- 📰 &nbsp; Reading & writing tech articles whenever possible. Also a fair bit of non-fiction.
+- 📰 &nbsp; Reading and writing tech articles whenever possible. Also a fair bit of non-fiction.
 - ☕ &nbsp; I'm a coffee nerd and I'm always talking about it. I love to share a cup of my favorite coffees, specially with people not familiar with specialty coffee.
 
 ### Languages and Tools:
@@ -44,6 +44,6 @@ As a bonus, I'm a huge coffee nerd, and have a couple of barista certifications.
 <ul>
   <li><b>OS:</b> Windows 10 and Ubuntu 20.04</li>
   <li><b>Browser: </b> Firefox </li>
-  <li><b>Terminal: </b> ZSH: Oh My Zsh </li>
+  <li><b>Terminal: </b> ZSH with Oh My Zsh </li>
   <li><b>Code Editor:</b> Neovim. You can find my vimrc <a href="https://github.com/andres-arias/dotfiles/blob/master/.vimrc">here</a>.</li>
 </ul>	
