@@ -42,7 +42,7 @@ As a bonus, I'm a huge coffee nerd, and have a couple of barista certifications.
 ### ⚙️ My Toolbox:
 
 <ul>
-  <li><b>OS:</b> Windows 10 and Ubuntu 20.04</li>
+  <li><b>OS:</b> Windows 10 and macOS</li>
   <li><b>Browser: </b> Firefox </li>
   <li><b>Terminal: </b> ZSH with Oh My Zsh </li>
   <li><b>Text Editor:</b> Neovim. You can find my configuration files <a href="https://github.com/andres-arias/dotfiles/tree/master/nvim">here</a>.</li>
