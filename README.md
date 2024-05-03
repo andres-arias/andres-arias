@@ -42,4 +42,4 @@ As a bonus, I'm a huge coffee nerd, and have a couple of barista certifications.
 - **Terminal**: 
     - macOS: iTerm2, ZSH and Oh My Zsh.
     - Windows: Windows Terminal, PowerShell and Oh My Posh.
-- **Text Editor**: Neovim. You can find my configuration files <a href="https://github.com/andres-arias/dotfiles/tree/master/nvim">here</a>.
+- **Text Editor**: Neovim. You can find my configuration files <a href="https://github.com/andres-arias/dotfiles/tree/master/nvim/.config/nvim">here</a>.
