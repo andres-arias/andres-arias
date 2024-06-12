@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/andresarias95)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://andres.world/)
 
-I’m a Computer Engineer from Costa Rica working as an Embedded Software Engineer for R&D at [Boston Scientific](https://www.bostonscientific.com).
+I’m a Computer Engineer from Costa Rica working as an Embedded Software Engineer.
 
 Computing has always been my passion. I love learning new technologies, skills and tinker with stuff.
 I also find interesting the intersection between technology and our cultures and how it impacts our life.
@@ -22,7 +22,7 @@ As a bonus, I'm a huge coffee nerd, and have a couple of barista certifications.
 ### About Me
 
 - 💻 &nbsp; I love learning new technologies, programming languages and platforms.
-- 📰 &nbsp; Reading and writing tech articles whenever possible. Also a fair bit of non-fiction.
+- 📰 &nbsp; Reading and writing tech articles whenever possible.
 - ☕ &nbsp; I'm a coffee nerd and I'm always talking about it. I love to share a cup of my favorite coffees, specially with people not familiar with specialty coffee.
 
 ### Languages and Tools:
@@ -40,6 +40,6 @@ As a bonus, I'm a huge coffee nerd, and have a couple of barista certifications.
 - **OS**: Windows 10 and macOS
 - **Browser**: Firefox 
 - **Terminal**: 
-    - macOS: iTerm2, ZSH and Oh My Zsh.
+    - macOS: iTerm2, tmux, ZSH and Oh My Zsh.
     - Windows: Windows Terminal, PowerShell and Oh My Posh.
-- **Text Editor**: Neovim. You can find my configuration files <a href="https://github.com/andres-arias/dotfiles/tree/master/nvim/.config/nvim">here</a>.
+- **Text Editor**: Neovim. You can find my configuration files <a href="https://github.com/andres-arias/dotfiles/tree/master/nvim">here</a>.
